@@ -1,10 +1,27 @@
 img {
-  width: 100px;
-  border-radius: 50px;
-  float: left;
-  margin-right: 10px;
+  width: 16em;
+}
+
+body {
+  background-color: #7bb87b;
 }
 
 .username {
   font-weight: bold;
+}
+
+.header-font {
+  font-family: "MerryChristmasFlake";
+  font-size: 130px;
+  text-align: center;
+}
+
+@font-face {
+  font-family: "MerryChristmasFlake";
+  src: url("MerryChristmasFlake.woff") format("woff");
+}
+
+.gift-container {
+  display: flex;
+  justify-content: space-evenly;
 }
