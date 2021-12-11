@@ -24,9 +24,24 @@ body {
 .gift-container {
   display: flex;
   justify-content: space-evenly;
+  align-items: center;
 }
 
 .button-container {
   display: flex;
   justify-content: space-evenly;
+}
+
+.smaller-image {
+  height: 14em;
+  width: auto;
+}
+
+.header-image {
+  width: 50em;
+}
+
+.header-container {
+  display: flex;
+  justify-content: center;
 }
