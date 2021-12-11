@@ -18,7 +18,7 @@ body {
 
 @font-face {
   font-family: "MerryChristmasFlake";
-  src: url("MerryChristmasFlake.woff") format("woff");
+  src: url("font/MerryChristmasFlake.woff") format("woff");
 }
 
 .gift-container {
