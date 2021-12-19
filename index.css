@@ -29,16 +29,22 @@ body {
 .modal-deah {
   background-color: #ac8cef !important;
   font-family: cursive;
+  font-size: 20px;
+  font-weight: 700;
 }
 
 .modal-mom {
   background-color: #5fd35f !important;
   font-family: cursive;
+  font-size: 20px;
+  font-weight: 700;
 }
 
 .modal-grammy {
   background-color: #87cefa !important;
   font-family: cursive;
+  font-size: 20px;
+  font-weight: 700;
 }
 .button-container {
   display: flex;
@@ -75,4 +81,8 @@ body {
 .header-container {
   display: flex;
   justify-content: center;
+}
+
+.hidden {
+  display: none;
 }
