@@ -1,9 +1,9 @@
-// TODO change passwords
+
 
 const passwords = {
-  deah: 'deah',
-  mom: 'mom',
-  grammy: 'grammy'
+  deah: 'easyonme',
+  mom: 'y=mx+b',
+  grammy: 'lemonmerengue'
 }
 
 const people = ['deah', 'mom', 'grammy']
